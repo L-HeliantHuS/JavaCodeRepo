@@ -24,7 +24,7 @@ public class Main {
         Upan upan = new Upan();
 
         // 实例化一个电脑, 通过可变参数传递四个USB硬件
-        Computer computer = new Computer("Lenovo", 1, mouse, print, tel, upan);
+        Computer computer = new Computer("Lenovo", 258, mouse, print, tel, upan);
         computer.showUSBPlugins();
     }
 }

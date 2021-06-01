@@ -1,8 +1,8 @@
 package USB;
 
 public class Computer {
-    String name;  // 电脑品牌名称
-    int no; // 电脑编号
+    String name;    // 电脑品牌名称
+    int no;         // 电脑编号
     USB[] plugins;
 
 
