@@ -1,4 +1,3 @@
-// 计算机2002 李康 202008710219
 package top.helianthus.zuche;
 
 public class Main {
